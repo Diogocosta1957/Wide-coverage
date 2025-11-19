@@ -9,3 +9,4 @@ nesse projeto utilizei a tecnologia:
 <br>
 <h2>Resultado Final do Projeto:</h2>
 <br>
+<img src="https://github.com/Diogocosta1957/Wide-coverage/blob/main/img/Captura%20de%20tela%202025-11-18%20212928.png?raw=true">
